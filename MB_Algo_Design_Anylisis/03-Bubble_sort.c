@@ -1,4 +1,6 @@
-/*Working of Bubble Sort
+/*--------------------------------------------------------Bubble Sort-----------------------------------------------------------
+
+Working of Bubble Sort
 Suppose we are trying to sort the elements in ascending order. 
 1. First Iteration (Compare and Swap)
 Starting from the first index, compare the first and the second elements.
@@ -15,7 +17,6 @@ https://www.youtube.com/watch?v=YqzNgaFQEh8
 
 
 Simplified Code:*/
-
 #include <stdio.h>
 int main()
 {

@@ -12,8 +12,8 @@ Step 9 - If that element also doesn't match with the search element, then displa
 You may follow the below youtube video (0.00-18.00 minutes). No need to exceed 18.00 minutes
 https://www.youtube.com/watch?v=V_T5NuccwRA
 
-Simplified Code: */
 
+Simplified Code:*/
 #include <stdio.h>
 int main()
 {
